@@ -28,6 +28,7 @@
 
 body {
     background: var(--bg-url);
+    height: 100vh;
 }
 
 body * {
